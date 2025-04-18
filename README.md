@@ -2,7 +2,7 @@
 
 This is a simple full-stack voting application where users can vote for their favorite type of music: Melody Songs or Beat Driven Songs.
 
-📁 Project Structure
+**📁 Project Structure**
 
 voting-app/
 ├── public/
